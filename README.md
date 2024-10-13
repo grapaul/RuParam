@@ -8,3 +8,5 @@ The RuParam project has been implemented in the Lomonosov Moscow State Universit
 ### String example1: 900_3,С самого начала научная деятельность Ломоносова была исключительно интенсивна.,С самого начала научная деятельность Ломоносова была исключительно интенсивен.,согл_пред_р,torfl_B2,s
 ### String example2: 61_1,"Что он помогал мне, когда я делал?","Он помогал мне, когда я делал пожертвования.",adj_wh_isl,RuConst,i
 ### "order" can be "s" (strict, gram-ungram) or "i" (inversed, ungram-gram), but this parameter is ommitted in the data for now
+
+## You can ask for a detailed description (the paper is under review) and for the dataset with s|i keys, just write to pave.gra@gmail.com
